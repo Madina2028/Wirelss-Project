@@ -1,0 +1,3 @@
+time,mac,role,frames,action
+15:34:12,02:00:00:00:00:cb,protected AP (address is probably spoofed),264,LOGGED
+15:34:13,02:00:00:00:00:72,client/unknown,142,LOGGED

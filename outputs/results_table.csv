@@ -1,0 +1,6 @@
+experiment,accuracy_%,precision_%,recall_%,false_alarms,missed_attacks
+Baseline_rule_deauth_ge_100,100.0,100.0,100.0,0,0
+A_all_features,100.0,100.0,100.0,0,0
+B_no_deauth_count,100.0,100.0,100.0,0,0
+C_no_deauth_no_frame_mix,97.83,95.05,98.97,5,1
+D_also_no_rssi,91.3,83.49,93.81,18,6
